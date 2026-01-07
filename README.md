@@ -11,7 +11,7 @@ The code reproduces the Empirical Orthogonal Function (EOF) analyses and figures
 
 ## Repository Contents
 
-### Main Figure Generation
+### Figures used in text
 - **`3D_2D_EOF_Comparison_V03.ipynb`**  
   Generates **Figures 2–14** in the paper.  
   This notebook compares 2D and 3D EOFs, including spatial patterns, depth structure, and correlations between 2D PCs and 3D PCs.
